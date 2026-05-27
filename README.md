@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**Abdullah-Taha9/Abdullah-Taha9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MSc AI & Robotics · University of Technology Nuremberg · Final semester  
 
-Here are some ideas to get you started:
+I understand how models work at an architectural level — and use that to build LLM systems end-to-end, from fine-tuning to shipped products.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Things I build on the side:
+---
+
+**[chatyourpdf.com](https://www.chatyourpdf.com)** — AI-powered PDF assistant: merge, split, sign and convert documents entirely in your browser
+
+**[inkpuzzle.com](https://www.inkpuzzle.com)** — Unlimited practice for LinkedIn games (Queens, Tango, Zip and more), no account needed
+
+---
