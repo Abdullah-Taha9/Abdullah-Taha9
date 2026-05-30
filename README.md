@@ -7,7 +7,7 @@ I understand how models work at an architectural level — and use that to build
 ### Things I build on the side:
 ---
 
-**[chatyourpdf.com](https://www.chatyourpdf.com)** — AI-powered PDF assistant: merge, split, sign and convert documents entirely in your browser
+**[chatyourpdf.com/app](https://www.chatyourpdf.com/app)** — AI-powered PDF assistant: merge, split, sign and convert documents entirely in your browser
 
 **[inkpuzzle.com](https://www.inkpuzzle.com)** — Unlimited practice for LinkedIn games (Queens, Tango, Zip and more), no account needed
 
