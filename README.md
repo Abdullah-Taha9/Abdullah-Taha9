@@ -2,7 +2,7 @@
 
 MSc AI & Robotics · University of Technology Nuremberg · Final semester  
 
-I understand how models work at an architectural level — and use that to build LLM systems end-to-end, from fine-tuning to shipped products.
+I enjoy understanding models deeply at the architectural level and turning that knowledge into real-world AI products, from fine-tuning foundation models to deploying production LLM systems.
 
 ### Things I build on the side:
 ---
