@@ -7,9 +7,8 @@ I enjoy understanding models deeply at the architectural level and turning that 
 ### Things I build on the side:
 ---
 
-**[chatyourpdf.com/app](https://www.chatyourpdf.com/app)** — AI-powered PDF assistant: merge, split, sign and convert documents entirely in your browser
+**[tellpdf.com/app](https://www.tellpdf.com/app)** — Work with PDF files and documents with natural language command. (upload a pdf and try: _exctract first page, rotate 90 deg then convert it to an image_)
 
-**[inkpuzzle.com](https://www.inkpuzzle.com)** — Unlimited practice for LinkedIn games (Queens, Tango, Zip and more), no account needed
 
 **[forward.md](https://github.com/Abdullah-Taha9/forward.md)** — A simple markdown convention so any tool can pick up exactly where the last one left off
 
